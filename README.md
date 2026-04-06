@@ -6,15 +6,16 @@ Los profesores del curso son:
 
 | 👨‍🏫 Nombre | 📧 Correo |
 |---|---|
-| Juan Reutter | jreutter@ing.puc.cl |
-| Agustín Urrutia | agustin.urrutia@imfd.cl  |
+| Juan Reutter | <jreutter@ing.puc.cl> |
+| Agustín Urrutia | <agustin.urrutia@imfd.cl>  |
 
 Los ayudantes del curso son:
 
 | 👨‍🏫 Nombre | 📧 Correo |
 |---|---|
-| Víctor Bórquez | vborquezruiz@uc.cl  |
-| Cristóbal Soto | cristbal.soto@uc.cl  |
+| Víctor Bórquez | <vborquezruiz@uc.cl>  |
+| Cristóbal Soto | <cristbal.soto@uc.cl>  |
+| Max Ojeda      | <max.ojeda.aguila@gmail.com> |
 
 ## Foro
 
